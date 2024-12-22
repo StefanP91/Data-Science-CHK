@@ -568,7 +568,7 @@ a{
         padding: 30px 20px 0 20px;
     }
 
-    .yellow-box :first-of-type(span){
+    & .yellow-box :first-of-type(span){
         text-wrap: nowrap;
     }
 
