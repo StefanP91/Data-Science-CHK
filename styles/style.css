@@ -568,6 +568,10 @@ a{
         padding: 30px 20px 0 20px;
     }
 
+    .yellow-box :first-of-type(span){
+        text-wrap: nowrap;
+    }
+
     & .blue-box{
         border: 1px solid #0059FF;
         border-left: 5px solid #0059FF;
