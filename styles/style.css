@@ -531,7 +531,7 @@ a{
 }
 
 #workWeek{
-    padding: 5% 5%;
+    padding: 5% 2%;
 
     & .col-md-2{
         padding: 0.3rem !important;
@@ -593,6 +593,13 @@ a{
         gap: 20px;
         padding: 30px 20px 0 20px;
     }
+
+    & .yellow-box,
+    & .blue-box,
+    & .green-box{
+
+    }
+
 
     & span {
         color:#666666;
