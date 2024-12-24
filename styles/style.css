@@ -165,6 +165,7 @@ a{
                 color: #75FA9E;
                 font-size: 16px;
                 margin: 0;
+                text-wrap: nowrap;
 
                 & span{
                     color: #ffffff;
