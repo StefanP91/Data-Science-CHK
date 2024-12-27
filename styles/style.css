@@ -525,6 +525,7 @@ a{
             padding: 33px 35px;
             flex-shrink: 0;
             height: 520px;
+            overflow-y: scroll;
         }
     }
     

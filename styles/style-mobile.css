@@ -96,7 +96,7 @@
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 
     .spots {
         position: static;
@@ -321,7 +321,7 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 435px) {
     .spots {
         display: none !important;
     }
